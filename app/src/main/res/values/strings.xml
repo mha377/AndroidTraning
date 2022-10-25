@@ -1,0 +1,29 @@
+<resources>
+    <string-array name="currylist">
+        <item>ドライカレー</item>
+        <item>カツカレー</item>
+    </string-array>
+    <string name="app_name">練習アプリ</string>
+    <string name="sub_title">サブ画面タイトル</string>
+    <string name="hint">名前を入力してください</string>
+    <string name="drink">ドリンク</string>
+    <string name="food">フード</string>
+    <string name="radio1">男</string>
+    <string name="radio2">女</string>
+    <string name="namae">名前</string>
+    <string name="profile">プロフィール</string>
+    <string name="pwd">パスワードは数値で入力してください</string>
+    <string name="clear">クリア</string>
+    <string name="age">年代</string>
+    <string name="sex">性別</string>
+    <string name="y10">10代</string>
+    <string name="ｙ２０">20代</string>
+    <string name="y30">30代</string>
+    <string name="data_input">データを入力してください</string>
+    <string name="kasou">感想を入力してください</string>
+    <string name="save">保存</string>
+    <string name="cancel">取り消し</string>
+    <string name="reset">リセット</string>
+    <string name="serch">検索</string>
+    <string name="camera">カメラ起動</string>
+</resources>
